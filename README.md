@@ -105,6 +105,9 @@ Weekend sales were 20–30% higher than weekdays.
 Metro cities contributed the majority of revenue.
 30% of customers contributed nearly 65% of total revenue.
 Discounts between 10–20% optimized both revenue and volume.
+ 
+![Uploading Screenshot 2026-03-01 211228.png…]()
+
 
 ## 💡 Business Recommendations
 Increase inventory for high-demand categories
