@@ -96,7 +96,8 @@ Payment Method Distribution
 🔹 Discount Impact
 Revenue vs Discount % Scatter Plot
 Discount Contribution to Sales
-<a href="https://github.com/Chandu4603/Blinkit-Grocery-Data-Analysis/blob/main/Screenshot%202026-03-01%20211228.png"> View DashBoard </a>
+
+- <a href="https://github.com/Chandu4603/Blinkit-Grocery-Data-Analysis/blob/main/Screenshot%202026-03-01%20211228.png"> View DashBoard </a>
 
 ## 📈 Key Insights from the Dashboard
 Fruits & Vegetables and Dairy categories generated the highest revenue.
